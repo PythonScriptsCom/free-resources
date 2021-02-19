@@ -35,7 +35,8 @@
 [Тимофей Хирьянов](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw)  
 [Олег Молчанов](https://www.youtube.com/channel/UCD5_waDcGBhof9xuA1qovTQ)  
 [Алексей Белкин](https://www.youtube.com/channel/UC32JKvc8nQ5G1OPuM7keDDw)  
-[PyCoding](https://www.youtube.com/channel/UCMOjK9NwSgDnt2ujXnjiVIw)  
+[PyCoding](https://www.youtube.com/channel/UCMOjK9NwSgDnt2ujXnjiVIw) 
+[Murrengan](https://www.youtube.com/channel/UC8D-Zw9iR6pRyGOXHVqzlQw)   
 - **Англоязычные:**  
 [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)  
 [TheNewBoston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw)  
